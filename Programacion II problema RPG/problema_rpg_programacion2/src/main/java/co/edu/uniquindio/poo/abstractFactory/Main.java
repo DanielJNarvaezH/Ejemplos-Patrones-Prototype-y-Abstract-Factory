@@ -19,6 +19,7 @@ public class Main {
                     System.out.println("Cerrando programa.");
                     break;
                 default:
+                    System.out.println("Seleccione una opci");
                     
             }
         }
