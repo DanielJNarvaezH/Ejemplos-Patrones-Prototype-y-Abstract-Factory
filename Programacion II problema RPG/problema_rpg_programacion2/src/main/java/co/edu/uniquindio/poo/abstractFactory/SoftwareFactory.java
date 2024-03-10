@@ -6,5 +6,7 @@ public class SoftwareFactory implements ServicioFactory {
     public ServicioInformatico creaServicio() {
         return new ServicioSoftwareEducacional();
     }
+
+    //Esta es una factory concreta
     
 }

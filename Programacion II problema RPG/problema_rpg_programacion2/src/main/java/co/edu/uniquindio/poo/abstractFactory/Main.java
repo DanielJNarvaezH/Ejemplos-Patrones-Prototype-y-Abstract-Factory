@@ -2,6 +2,8 @@ package co.edu.uniquindio.poo.abstractFactory;
 
 import java.util.Scanner;
 
+//El código implementado como ejemplo de Abstract Factory se tomo de: 
+
 public class Main {
     
     public static Scanner S = new Scanner(System.in);

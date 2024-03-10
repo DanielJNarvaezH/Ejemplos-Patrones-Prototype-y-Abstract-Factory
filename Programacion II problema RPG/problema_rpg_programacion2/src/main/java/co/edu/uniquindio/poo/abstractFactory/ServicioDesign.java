@@ -14,7 +14,7 @@ public class ServicioDesign implements ServicioInformatico {
 
     @Override
     public void informarSobrePago() {
-        System.out.println("Pago en efectivo al momento de terminado y entregado el trabajo");
+        System.out.println("Pago en efectivo al momento de que se termine y entregue el trabajo");
     }
-
+    //Este es un producto concreto
 }

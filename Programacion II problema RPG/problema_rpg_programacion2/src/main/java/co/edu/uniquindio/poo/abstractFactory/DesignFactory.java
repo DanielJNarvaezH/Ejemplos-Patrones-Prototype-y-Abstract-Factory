@@ -7,4 +7,6 @@ public class DesignFactory implements ServicioFactory {
         return new ServicioDesign();
     }
 
+    //Esta es un Factory concreta
+
 }

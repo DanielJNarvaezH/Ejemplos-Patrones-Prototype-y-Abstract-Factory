@@ -17,4 +17,6 @@ public class ServicioSoftwareEducacional implements ServicioInformatico {
         System.out.println("El recurso monetario obtenido final tendrá directa relación con la cantidad de descargas");
     }
 
+    // Este es un producto concreto 
+
 }

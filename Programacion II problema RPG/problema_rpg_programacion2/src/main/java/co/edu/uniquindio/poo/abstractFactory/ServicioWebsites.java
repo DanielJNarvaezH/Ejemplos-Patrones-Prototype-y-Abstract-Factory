@@ -16,5 +16,7 @@ public class ServicioWebsites implements ServicioInformatico {
     public void informarSobrePago() {
         System.out.println("El pago por el servicio sera aparte de los pagos del dominio y la ciberseguridad");
     }
+    //Este es un producto concreto
+
 
 }
