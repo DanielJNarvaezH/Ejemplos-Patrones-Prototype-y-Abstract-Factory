@@ -14,7 +14,7 @@ public class Carro implements Cloneable {
         return carroClone;
         //Aquí se implementa la interfaz de cloneable y se define la estructura en que se clona el objeto
     }
-
+    // Getters, Setters y toString...
 
     public String getModelo() {
         return modelo;
