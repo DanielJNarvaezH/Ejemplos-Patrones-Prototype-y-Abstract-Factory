@@ -4,20 +4,17 @@ public class ServicioSoftwareEducacional implements ServicioInformatico {
 
     @Override
     public void asignarTrabajo() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'asignarTrabajo'");
+        System.out.println("El equipo de programadores estará a cargo de este proyecto");
     }
 
     @Override
     public void indicarFechaEntrega() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'indicarFechaEntrega'");
+        System.out.println("Los directivos han declarado la fecha límite de entrega: 11/11/2024");
     }
 
     @Override
     public void informarSobrePago() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'informarSobrePago'");
+        System.out.println("El recurso monetario obtenido final tendrá directa relación con la cantidad de descargas");
     }
 
 }
